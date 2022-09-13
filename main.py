@@ -4,8 +4,31 @@
 
 import pandas as pd
 
-##
-print('hello')
-df = pd.DataFrame()
+
+
+
+
+
+def main():
+    pass
+
+    ##
+    print('hello')
+    df = pd.DataFrame()
+
+    ##
+
 
 ##
+if __name__ == '__main__':
+    main()
+
+
+
+
+
+
+
+
+
+
