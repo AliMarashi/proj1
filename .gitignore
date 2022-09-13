@@ -1,6 +1,7 @@
 ## Manually add by me
 venv
 .idea
+.venv
 
 # General
 .DS_Store
